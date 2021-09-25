@@ -1,0 +1,25 @@
+.classOne {
+  background-color: red;
+  text-align: left;
+}
+.classTwo {
+  color: green;
+  text-align: center;
+  border: solid;
+}
+.classThree {
+  background-color: green;
+  text-align: center;
+  width: 50%;
+}
+.classFour {
+  border: solid;
+  text-align: right;
+  border-radius: 10px;
+}
+
+.classFive {
+  border: dotted;
+  color: blue;
+  width: 33%;
+}

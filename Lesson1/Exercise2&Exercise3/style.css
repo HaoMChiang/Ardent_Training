@@ -1,0 +1,63 @@
+.top {
+  background-color: aliceblue;
+  text-align: center;
+}
+
+.top-nav {
+  display: flex;
+  justify-content: space-evenly;
+  font-size: x-large;
+}
+
+.top-nav a {
+  text-decoration: none;
+}
+
+.main {
+  background-color: cornsilk;
+  display: flex;
+  padding: 1rem;
+}
+
+.main-text {
+  padding: 0.5rem;
+}
+
+.education {
+  background-color: gainsboro;
+  /* display: flex;
+  justify-content: space-around; */
+}
+
+.activities {
+  background-color: honeydew;
+}
+
+.skills {
+  background-color: wheat;
+}
+
+.contact {
+  background-color: linen;
+}
+
+.footer {
+  text-align: right;
+  background-color: #e6ffe6;
+}
+
+.project1 {
+  background-color: mintcream;
+}
+
+.project2 {
+  background-color: seashell;
+}
+
+.project3 {
+  background-color: beige;
+}
+
+.project4 {
+  background-color: azure;
+}
